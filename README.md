@@ -29,75 +29,8 @@ Here are some ideas to get you started:
 
 #### :sparkles: [我的粉丝](https://github.com/xlz122?tab=followers)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ZhuAiQuan">
-        <img src="https://avatars.githubusercontent.com/u/62362232?s=100&v=4" width="100px;" alt="ZhuAiQuan"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Youmzhi">
-        <img src="https://avatars.githubusercontent.com/u/75533551?s=100&v=4" width="100px;" alt="gaocegege"/>
-      </a>
-      <br />
-      <a href="https://github.com/Youmzhi">Youmzhi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lanxinyou">
-        <img src="https://avatars.githubusercontent.com/u/53325452?s=100&v=4" width="100px;" alt="mashirozx"/>
-      </a>
-      <br />
-      <a href="https://github.com/lanxinyou">lanxinyou</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/stanxii">
-        <img src="https://avatars.githubusercontent.com/u/1029665?s=100&v=4" width="100px;" alt="webpointdev"/>
-      </a>
-      <br />
-      <a href="https://github.com/stanxii">Stan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Yy2z">
-        <img src="https://avatars.githubusercontent.com/u/77180909?s=100&v=4" width="100px;" alt="lzwjava"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yy2z">羽蒙Y</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ya-Bank">
-        <img src="https://avatars.githubusercontent.com/u/61497058?s=100&v=4" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ya-Bank">Ya-Bank</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zjkzwh">
-        <img src="https://avatars.githubusercontent.com/u/42199594?s=100&v=4" width="100px;" alt="hua1995116"/>
-      </a>
-      <br />
-      <a href="https://github.com/zjkzwh">zjkzwh</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gx-zlyedl">
-        <img src="https://avatars.githubusercontent.com/u/105199800?s=100&v=4" width="100px;" alt="ZhuAiQuan"/>
-      </a>
-      <br />
-      <a href="https://github.com/gx-zlyedl">gx-zlyedl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zyc-dd">
-        <img src="https://avatars.githubusercontent.com/u/105199476?s=100&v=4" width="100px;" alt="gaocegege"/>
-      </a>
-      <br />
-      <a href="https://github.com/zyc-dd">zyc-dd</a>
-    </td>
-  </tr>
-</table>
+<!--START_SECTION:followers-->
+<!--END_SECTION:followers-->
 
 ---
 

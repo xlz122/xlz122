@@ -30,6 +30,75 @@ Here are some ideas to get you started:
 #### :sparkles: [我的粉丝](https://github.com/xlz122?tab=followers)
 
 <!--START_SECTION:followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/stanxii">
+        <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="stanxii"/>
+      </a>
+      <br />
+      <a href="https://github.com/stanxii">Stan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yy2z">
+        <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yy2z">羽蒙Y</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zjkzwh">
+        <img src="https://avatars2.githubusercontent.com/u/42199594" width="100px;" alt="zjkzwh"/>
+      </a>
+      <br />
+      <a href="https://github.com/zjkzwh">zjkzwh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lanxinyou">
+        <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
+      </a>
+      <br />
+      <a href="https://github.com/lanxinyou">lanxinyou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZhuAiQuan">
+        <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Youmzhi">
+        <img src="https://avatars2.githubusercontent.com/u/75533551" width="100px;" alt="Youmzhi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Youmzhi">Youmzhi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zyc-dd">
+        <img src="https://avatars2.githubusercontent.com/u/105199476" width="100px;" alt="zyc-dd"/>
+      </a>
+      <br />
+      <a href="https://github.com/zyc-dd">zyc-dd</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gx-zlyedl">
+        <img src="https://avatars2.githubusercontent.com/u/105199800" width="100px;" alt="gx-zlyedl"/>
+      </a>
+      <br />
+      <a href="https://github.com/gx-zlyedl">gx-zlyedl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ya-Bank">
+        <img src="https://avatars2.githubusercontent.com/u/61497058" width="100px;" alt="Ya-Bank"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ya-Bank">Ya-Bank</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:followers-->
 
 ---

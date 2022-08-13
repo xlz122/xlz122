@@ -98,6 +98,13 @@ Here are some ideas to get you started:
       <a href="https://github.com/gx-zlyedl">gx-zlyedl</a>
     </td>
     <td align="center">
+      <a href="https://github.com/chiaochienchi">
+        <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="chiaochienchi"/>
+      </a>
+      <br />
+      <a href="https://github.com/chiaochienchi">Jiao Qianji</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Ya-Bank">
         <img src="https://avatars2.githubusercontent.com/u/61497058" width="100px;" alt="Ya-Bank"/>
       </a>

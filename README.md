@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 -   :hammer_and_pick: Javascript / Vue / React / TypeScript / React-Native / Uni-App / Next / NodeJS
 -   ⚡ 技术博客: [好巧.](https://blog.csdn.net/weixin_43233914)
 -   📫 我的邮箱: 122874722@qq.com
--   😄 我的微信: x122874722
 
 ---
 

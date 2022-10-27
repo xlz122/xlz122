@@ -1,5 +1,6 @@
 # waka-readme-stats 代码统计配置
 
+```
 name: Waka Readme
 
 on:
@@ -42,3 +43,4 @@ jobs:
           SHOW_UPDATED_DATE: False
           # 语言
           LOCALE: en
+```

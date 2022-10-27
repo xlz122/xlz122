@@ -1,5 +1,6 @@
 # wakapi 代码统计配置
 
+```
 name: WakaTime Readme
 
 on:
@@ -24,3 +25,4 @@ jobs:
           TIME_RANGE: last_30_days
           # 显示时间
           SHOW_TIME: true
+```

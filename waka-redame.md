@@ -1,5 +1,6 @@
 # waka-readme 代码统计配置
 
+```
 name: Waka Readme
 
 on:
@@ -16,3 +17,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+```

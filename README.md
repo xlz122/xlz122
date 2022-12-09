@@ -83,6 +83,13 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/XinjieDang">
+        <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="XinjieDang"/>
+      </a>
+      <br />
+      <a href="https://github.com/XinjieDang">DxJayDang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zyc-dd">
         <img src="https://avatars2.githubusercontent.com/u/105199476" width="100px;" alt="zyc-dd"/>
       </a>

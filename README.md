@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey, 我是xlz122
+## Hi, 我是xlz122
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
 

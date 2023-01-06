@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 一个工作4年的前端小菜鸟
 
--   :hammer_and_pick: Javascript / Vue / React / TypeScript / React-Native / Uni-App / Next / NodeJS
+-   :hammer_and_pick: Javascript / Vue / React / TypeScript / React-Native / Next / Uni-App / NodeJS
 -   ⚡ 技术博客: [好巧.](https://blog.csdn.net/weixin_43233914)
 -   📫 我的邮箱: 122874722@qq.com
 

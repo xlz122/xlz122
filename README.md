@@ -90,6 +90,13 @@ Here are some ideas to get you started:
       <a href="https://github.com/XinjieDang">DxJayDang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/HealUP">
+        <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
+      </a>
+      <br />
+      <a href="https://github.com/HealUP">Denszhi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zyc-dd">
         <img src="https://avatars2.githubusercontent.com/u/105199476" width="100px;" alt="zyc-dd"/>
       </a>
@@ -116,13 +123,6 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/Ya-Bank">Ya-Bank</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HealUP">
-        <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
-      </a>
-      <br />
-      <a href="https://github.com/HealUP">Denszhi</a>
     </td>
   </tr>
 </table>

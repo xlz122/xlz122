@@ -39,6 +39,13 @@ Here are some ideas to get you started:
       <a href="https://github.com/stanxii">Stan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ChiuMungZitAlexander">
+        <img src="https://avatars2.githubusercontent.com/u/22234622" width="100px;" alt="ChiuMungZitAlexander"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChiuMungZitAlexander">Alexander Mung-Zit Chiu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Yy2z">
         <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
       </a>
@@ -73,6 +80,8 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
@@ -80,8 +89,6 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Youmzhi">
         <img src="https://avatars2.githubusercontent.com/u/75533551" width="100px;" alt="Youmzhi"/>

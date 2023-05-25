@@ -74,14 +74,21 @@ Here are some ideas to get you started:
       <a href="https://github.com/zjkzwh">zjkzwh</a>
     </td>
     <td align="center">
+      <a href="https://github.com/qq670607946">
+        <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="qq670607946"/>
+      </a>
+      <br />
+      <a href="https://github.com/qq670607946">qq670607946</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/lanxinyou">
         <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
       </a>
       <br />
       <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
@@ -124,6 +131,8 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/chiaochienchi">Jiao Qianji</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Ya-Bank">
         <img src="https://avatars2.githubusercontent.com/u/61497058" width="100px;" alt="Ya-Bank"/>

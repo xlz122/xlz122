@@ -67,12 +67,21 @@ Here are some ideas to get you started:
       <a href="https://github.com/zlylm">zlylm</a>
     </td>
     <td align="center">
+      <a href="https://github.com/XinjieDang">
+        <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="XinjieDang"/>
+      </a>
+      <br />
+      <a href="https://github.com/XinjieDang">DxJayDang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zjkzwh">
         <img src="https://avatars2.githubusercontent.com/u/42199594" width="100px;" alt="zjkzwh"/>
       </a>
       <br />
       <a href="https://github.com/zjkzwh">zjkzwh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/qq670607946">
         <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="qq670607946"/>
@@ -80,8 +89,6 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/qq670607946">qq670607946</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lanxinyou">
         <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
@@ -102,13 +109,6 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/Youmzhi">Youmzhi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/XinjieDang">
-        <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="XinjieDang"/>
-      </a>
-      <br />
-      <a href="https://github.com/XinjieDang">DxJayDang</a>
     </td>
     <td align="center">
       <a href="https://github.com/zyc-dd">

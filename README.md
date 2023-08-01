@@ -87,7 +87,7 @@ Here are some ideas to get you started:
         <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="qq670607946"/>
       </a>
       <br />
-      <a href="https://github.com/qq670607946">qq670607946</a>
+      <a href="https://github.com/qq670607946">Mr-吴</a>
     </td>
     <td align="center">
       <a href="https://github.com/lanxinyou">

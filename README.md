@@ -83,13 +83,6 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/qq670607946">
-        <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="qq670607946"/>
-      </a>
-      <br />
-      <a href="https://github.com/qq670607946">Mr-吴</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lanxinyou">
         <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
       </a>
@@ -109,6 +102,13 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/Youmzhi">Youmzhi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/995william">
+        <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
+      </a>
+      <br />
+      <a href="https://github.com/995william">Mr-吴</a>
     </td>
     <td align="center">
       <a href="https://github.com/zyc-dd">

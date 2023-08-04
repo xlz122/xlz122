@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
 
-一个工作4年的前端小菜鸟
+一个工作5年的前端小菜鸟
 
 -   :hammer_and_pick: Javascript / Vue / React / TypeScript / React-Native / NextJS / uni-app / NodeJS
 -   ⚡ 技术博客: [好巧.](https://blog.csdn.net/weixin_43233914)

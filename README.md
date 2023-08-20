@@ -102,7 +102,7 @@ Here are some ideas to get you started:
         <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="XinjieDang"/>
       </a>
       <br />
-      <a href="https://github.com/XinjieDang">DxJayDang</a>
+      <a href="https://github.com/XinjieDang">XinjieDang</a>
     </td>
     <td align="center">
       <a href="https://github.com/995william">

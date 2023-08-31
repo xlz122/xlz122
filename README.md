@@ -51,7 +51,7 @@ Here are some ideas to get you started:
         <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
       </a>
       <br />
-      <a href="https://github.com/Yy2z">羽蒙Y</a>
+      <a href="https://github.com/Yy2z">Julian</a>
     </td>
     <td align="center">
       <a href="https://github.com/HealUP">

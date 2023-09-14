@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, 我是xlz122
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlz122)](https://github.com/anuraghazra/github-readme-stats)
 
 一个工作5年的前端小菜鸟
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 -   ⚡ 技术博客：[好巧](https://blog.csdn.net/weixin_43233914)
 -   📫 我的邮箱：122874722@qq.com
 
----
 
 #### :sparkles: [我的粉丝](https://github.com/xlz122?tab=followers)
 

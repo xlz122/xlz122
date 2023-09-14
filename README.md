@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, 我是xlz122
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlz122)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xlz122&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
 
 一个工作5年的前端小菜鸟
 

@@ -134,6 +134,13 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/reayncgz">
+        <img src="https://avatars2.githubusercontent.com/u/155127232" width="100px;" alt="reayncgz"/>
+      </a>
+      <br />
+      <a href="https://github.com/reayncgz">reayncgz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jiaoqianji">
         <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
       </a>
@@ -153,6 +160,13 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/Ya-Bank">Ya-Bank</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Xoeynh">
+        <img src="https://avatars2.githubusercontent.com/u/155126805" width="100px;" alt="Xoeynh"/>
+      </a>
+      <br />
+      <a href="https://github.com/Xoeynh">Xoeynh</a>
     </td>
   </tr>
 </table>

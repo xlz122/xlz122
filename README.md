@@ -162,13 +162,6 @@ Here are some ideas to get you started:
       <a href="https://github.com/gx-zlyedl">gx-zlyedl</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ya-Bank">
-        <img src="https://avatars2.githubusercontent.com/u/61497058" width="100px;" alt="Ya-Bank"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ya-Bank">Ya-Bank</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Xoeynh">
         <img src="https://avatars2.githubusercontent.com/u/155126805" width="100px;" alt="Xoeynh"/>
       </a>

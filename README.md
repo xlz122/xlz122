@@ -125,21 +125,14 @@ Here are some ideas to get you started:
       <a href="https://github.com/XinjieDang">XinjieDang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sigma429">
-        <img src="https://avatars2.githubusercontent.com/u/118536319" width="100px;" alt="Sigma429"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sigma429">Sigma429</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/995william">
         <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
       </a>
       <br />
       <a href="https://github.com/995william">Mr-吴</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zyc-dd">
         <img src="https://avatars2.githubusercontent.com/u/105199476" width="100px;" alt="zyc-dd"/>

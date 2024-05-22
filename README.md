@@ -39,18 +39,18 @@ Here are some ideas to get you started:
       <a href="https://github.com/stanxii">Stan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/khinthandarkyaw98">
-        <img src="https://avatars2.githubusercontent.com/u/50408474" width="100px;" alt="khinthandarkyaw98"/>
-      </a>
-      <br />
-      <a href="https://github.com/khinthandarkyaw98">Khin Thandar Kyaw</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ChiuMungZitAlexander">
         <img src="https://avatars2.githubusercontent.com/u/22234622" width="100px;" alt="ChiuMungZitAlexander"/>
       </a>
       <br />
       <a href="https://github.com/ChiuMungZitAlexander">Alexander Mung-Zit Chiu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/khinthandarkyaw98">
+        <img src="https://avatars2.githubusercontent.com/u/50408474" width="100px;" alt="khinthandarkyaw98"/>
+      </a>
+      <br />
+      <a href="https://github.com/khinthandarkyaw98">Khin Thandar Kyaw</a>
     </td>
     <td align="center">
       <a href="https://github.com/alex-oos">

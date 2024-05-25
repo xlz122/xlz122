@@ -104,6 +104,13 @@ Here are some ideas to get you started:
       <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
     <td align="center">
+      <a href="https://github.com/jiaoqianji">
+        <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
+      </a>
+      <br />
+      <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/chen-ziwen">
         <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
       </a>
@@ -124,6 +131,8 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/Youmzhi">Youmzhi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/XinjieDang">
         <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="XinjieDang"/>
@@ -131,8 +140,6 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/XinjieDang">XinjieDang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/995william">
         <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
@@ -153,13 +160,6 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/reayncgz">reayncgz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jiaoqianji">
-        <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
-      </a>
-      <br />
-      <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
     </td>
     <td align="center">
       <a href="https://github.com/gx-zlyedl">

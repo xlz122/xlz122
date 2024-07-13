@@ -32,6 +32,13 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/sammorozov">
+        <img src="https://avatars2.githubusercontent.com/u/109150200" width="100px;" alt="sammorozov"/>
+      </a>
+      <br />
+      <a href="https://github.com/sammorozov">Sam Morozov</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/stanxii">
         <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="stanxii"/>
       </a>
@@ -73,6 +80,8 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/HealUP">Denszhi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zlylm">
         <img src="https://avatars2.githubusercontent.com/u/30686636" width="100px;" alt="zlylm"/>
@@ -80,8 +89,6 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/zlylm">zlylm</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/chen-ziwen">
         <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
@@ -124,6 +131,8 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/Youmzhi">Youmzhi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/XinjieDang">
         <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="XinjieDang"/>
@@ -131,8 +140,6 @@ Here are some ideas to get you started:
       <br />
       <a href="https://github.com/XinjieDang">XinjieDang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/995william">
         <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
@@ -174,13 +181,6 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/Xoeynh">Xoeynh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/578077863">
-        <img src="https://avatars2.githubusercontent.com/u/59024581" width="100px;" alt="578077863"/>
-      </a>
-      <br />
-      <a href="https://github.com/578077863">578077863</a>
     </td>
   </tr>
 </table>

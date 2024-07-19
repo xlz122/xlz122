@@ -1,30 +1,13 @@
-<!--
-**xlz122/xlz122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Hi, 我是xlz122
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xlz122&show_icons=true&locale=cn">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
 
 一个工作5年的前端小菜鸟
 
--   :hammer_and_pick: Javascript / Vue / React / TypeScript / React-Native / NextJS / uni-app / NodeJS
+-   :hammer_and_pick: JavaScript / Vue / React / React Native / NextJS
 -   🌱 个人网站：[好巧](https://www.xlz122.cn/)
 -   ⚡ 技术博客：[好巧](https://blog.csdn.net/weixin_43233914)
 -   📫 我的邮箱：122874722@qq.com
-
 
 #### :sparkles: [我的粉丝](https://github.com/xlz122?tab=followers)
 

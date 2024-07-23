@@ -57,27 +57,27 @@
       <a href="https://github.com/Yy2z">Julian</a>
     </td>
     <td align="center">
+      <a href="https://github.com/chen-ziwen">
+        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
+      </a>
+      <br />
+      <a href="https://github.com/chen-ziwen">Chiko</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/HealUP">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
       </a>
       <br />
       <a href="https://github.com/HealUP">Denszhi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zlylm">
         <img src="https://avatars2.githubusercontent.com/u/30686636" width="100px;" alt="zlylm"/>
       </a>
       <br />
       <a href="https://github.com/zlylm">zlylm</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chen-ziwen">
-        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
-      </a>
-      <br />
-      <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
     <td align="center">
       <a href="https://github.com/zjkzwh">

@@ -22,6 +22,13 @@
       <a href="https://github.com/sammorozov">Sam Morozov</a>
     </td>
     <td align="center">
+      <a href="https://github.com/seniorvuejsdeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/stanxii">
         <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="stanxii"/>
       </a>
@@ -56,6 +63,8 @@
       <br />
       <a href="https://github.com/Yy2z">Julian</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/chen-ziwen">
         <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
@@ -63,8 +72,6 @@
       <br />
       <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HealUP">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Youmzhi">
         <img src="https://avatars2.githubusercontent.com/u/75533551" width="100px;" alt="Youmzhi"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/Youmzhi">Youmzhi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/XinjieDang">
         <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="XinjieDang"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/gx-zlyedl">gx-zlyedl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Xoeynh">
-        <img src="https://avatars2.githubusercontent.com/u/155126805" width="100px;" alt="Xoeynh"/>
-      </a>
-      <br />
-      <a href="https://github.com/Xoeynh">Xoeynh</a>
     </td>
   </tr>
 </table>

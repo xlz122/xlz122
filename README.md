@@ -15,13 +15,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/sammorozov">
-        <img src="https://avatars2.githubusercontent.com/u/109150200" width="100px;" alt="sammorozov"/>
-      </a>
-      <br />
-      <a href="https://github.com/sammorozov">Sam Morozov</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
@@ -63,8 +56,6 @@
       <br />
       <a href="https://github.com/Yy2z">Julian</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/arvsabert">
         <img src="https://avatars2.githubusercontent.com/u/42908592" width="100px;" alt="arvsabert"/>
@@ -72,6 +63,8 @@
       <br />
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HealUP">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
@@ -114,8 +107,6 @@
       <br />
       <a href="https://github.com/myyezi">yezi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lanxinyou">
         <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
@@ -123,6 +114,8 @@
       <br />
       <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Youmzhi">
         <img src="https://avatars2.githubusercontent.com/u/75533551" width="100px;" alt="Youmzhi"/>
@@ -164,6 +157,13 @@
       </a>
       <br />
       <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gx-zlyedl">
+        <img src="https://avatars2.githubusercontent.com/u/105199800" width="100px;" alt="gx-zlyedl"/>
+      </a>
+      <br />
+      <a href="https://github.com/gx-zlyedl">gx-zlyedl</a>
     </td>
   </tr>
 </table>

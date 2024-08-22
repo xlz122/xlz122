@@ -22,6 +22,13 @@
       <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mustafacagri">
+        <img src="https://avatars2.githubusercontent.com/u/7488394" width="100px;" alt="mustafacagri"/>
+      </a>
+      <br />
+      <a href="https://github.com/mustafacagri">Mustafa Çağrı Güven</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/stanxii">
         <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="stanxii"/>
       </a>
@@ -56,6 +63,8 @@
       <br />
       <a href="https://github.com/Yy2z">Julian</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/arvsabert">
         <img src="https://avatars2.githubusercontent.com/u/42908592" width="100px;" alt="arvsabert"/>
@@ -63,8 +72,6 @@
       <br />
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HealUP">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/myyezi">yezi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lanxinyou">
         <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Youmzhi">
         <img src="https://avatars2.githubusercontent.com/u/75533551" width="100px;" alt="Youmzhi"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gx-zlyedl">
-        <img src="https://avatars2.githubusercontent.com/u/105199800" width="100px;" alt="gx-zlyedl"/>
-      </a>
-      <br />
-      <a href="https://github.com/gx-zlyedl">gx-zlyedl</a>
     </td>
   </tr>
 </table>

@@ -73,6 +73,13 @@
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
     <td align="center">
+      <a href="https://github.com/chen-ziwen">
+        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
+      </a>
+      <br />
+      <a href="https://github.com/chen-ziwen">Chiko</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HealUP">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
       </a>
@@ -85,13 +92,6 @@
       </a>
       <br />
       <a href="https://github.com/zlylm">zlylm</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chen-ziwen">
-        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
-      </a>
-      <br />
-      <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
     <td align="center">
       <a href="https://github.com/ZhuAiQuan">

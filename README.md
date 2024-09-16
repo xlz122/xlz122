@@ -87,13 +87,6 @@
       <a href="https://github.com/zlylm">zlylm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/chen-ziwen">
-        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
-      </a>
-      <br />
-      <a href="https://github.com/chen-ziwen">Chiko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
       </a>
@@ -114,8 +107,6 @@
       <br />
       <a href="https://github.com/zjkzwh">zjkzwh</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/myyezi">
         <img src="https://avatars2.githubusercontent.com/u/54535802" width="100px;" alt="myyezi"/>
@@ -123,12 +114,21 @@
       <br />
       <a href="https://github.com/myyezi">yezi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lanxinyou">
         <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
       </a>
       <br />
       <a href="https://github.com/lanxinyou">lanxinyou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chen-ziwen">
+        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
+      </a>
+      <br />
+      <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
     <td align="center">
       <a href="https://github.com/Youmzhi">

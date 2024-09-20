@@ -15,6 +15,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/eust-w">
+        <img src="https://avatars2.githubusercontent.com/u/39115651" width="100px;" alt="eust-w"/>
+      </a>
+      <br />
+      <a href="https://github.com/eust-w">longtao</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/seniorvuejsdeveloper">
         <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
       </a>
@@ -56,6 +63,8 @@
       <br />
       <a href="https://github.com/alex-oos">快乐小王子</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Yy2z">
         <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
@@ -63,8 +72,6 @@
       <br />
       <a href="https://github.com/Yy2z">Julian</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/arvsabert">
         <img src="https://avatars2.githubusercontent.com/u/42908592" width="100px;" alt="arvsabert"/>
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/zjkzwh">zjkzwh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/myyezi">
         <img src="https://avatars2.githubusercontent.com/u/54535802" width="100px;" alt="myyezi"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/myyezi">yezi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lanxinyou">
         <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/reayncgz">reayncgz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jiaoqianji">
-        <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
-      </a>
-      <br />
-      <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
     </td>
   </tr>
 </table>

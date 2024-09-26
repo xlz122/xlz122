@@ -22,18 +22,18 @@
       <a href="https://github.com/eust-w">longtao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/seniorvuejsdeveloper">
-        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
-      </a>
-      <br />
-      <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mustafacagri">
         <img src="https://avatars2.githubusercontent.com/u/7488394" width="100px;" alt="mustafacagri"/>
       </a>
       <br />
       <a href="https://github.com/mustafacagri">Mustafa Çağrı Güven</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seniorvuejsdeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/seniorvuejsdeveloper">Lead / Senior Vue.js Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/stanxii">

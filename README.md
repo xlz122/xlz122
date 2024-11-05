@@ -1,8 +1,8 @@
 ## Hi, 我是xlz122
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xlz122&show_icons=true&locale=cn">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
+[<img src="https://github-readme-stats.vercel.app/api?username=xlz122&show_icons=true&locale=cn" width="50%" align="right" />](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
 
-一个工作5年的前端小菜鸟
+一个工作6年的前端小菜鸟
 
 -   :hammer_and_pick: JavaScript / Vue / React / React Native / NextJS
 -   🌱 个人网站：[好巧](https://www.xlz122.cn/)

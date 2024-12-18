@@ -94,6 +94,13 @@
       <a href="https://github.com/HealUP">Denszhi</a>
     </td>
     <td align="center">
+      <a href="https://github.com/995william">
+        <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
+      </a>
+      <br />
+      <a href="https://github.com/995william">Mr-吴</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zlylm">
         <img src="https://avatars2.githubusercontent.com/u/30686636" width="100px;" alt="zlylm"/>
       </a>
@@ -106,13 +113,6 @@
       </a>
       <br />
       <a href="https://github.com/chen-ziwen">Chiko</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/995william">
-        <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
-      </a>
-      <br />
-      <a href="https://github.com/995william">Mr-吴</a>
     </td>
   </tr>
   <tr>

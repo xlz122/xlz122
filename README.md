@@ -80,6 +80,13 @@
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
     <td align="center">
+      <a href="https://github.com/wywzixin">
+        <img src="https://avatars2.githubusercontent.com/u/22430715" width="100px;" alt="wywzixin"/>
+      </a>
+      <br />
+      <a href="https://github.com/wywzixin">wangyawei</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
       </a>
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/zlylm">zlylm</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/chen-ziwen">
         <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zjkzwh">
         <img src="https://avatars2.githubusercontent.com/u/42199594" width="100px;" alt="zjkzwh"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/578077863">578077863</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zyc-dd">
-        <img src="https://avatars2.githubusercontent.com/u/105199476" width="100px;" alt="zyc-dd"/>
-      </a>
-      <br />
-      <a href="https://github.com/zyc-dd">zyc-dd</a>
     </td>
   </tr>
 </table>

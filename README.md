@@ -87,6 +87,13 @@
       <a href="https://github.com/wywzixin">wangyawei</a>
     </td>
     <td align="center">
+      <a href="https://github.com/chen-ziwen">
+        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
+      </a>
+      <br />
+      <a href="https://github.com/chen-ziwen">Chiko</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
       </a>
@@ -107,21 +114,14 @@
       <br />
       <a href="https://github.com/995william">Mr-吴</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zlylm">
         <img src="https://avatars2.githubusercontent.com/u/30686636" width="100px;" alt="zlylm"/>
       </a>
       <br />
       <a href="https://github.com/zlylm">zlylm</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/chen-ziwen">
-        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
-      </a>
-      <br />
-      <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
     <td align="center">
       <a href="https://github.com/zjkzwh">

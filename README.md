@@ -29,6 +29,13 @@
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hauntmuskie">
+        <img src="https://avatars2.githubusercontent.com/u/46187240" width="100px;" alt="hauntmuskie"/>
+      </a>
+      <br />
+      <a href="https://github.com/hauntmuskie">Rionggo Rahardi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/stanxii">
         <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="stanxii"/>
       </a>
@@ -56,6 +63,8 @@
       <br />
       <a href="https://github.com/topperCao">topperCao</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/alex-oos">
         <img src="https://avatars2.githubusercontent.com/u/46887064" width="100px;" alt="alex-oos"/>
@@ -63,8 +72,6 @@
       <br />
       <a href="https://github.com/alex-oos">快乐小王子</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Yy2z">
         <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/HealUP">Denszhi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/995william">
         <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/995william">Mr-吴</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zlylm">
         <img src="https://avatars2.githubusercontent.com/u/30686636" width="100px;" alt="zlylm"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/XinjieDang">XinjieDang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/578077863">
-        <img src="https://avatars2.githubusercontent.com/u/59024581" width="100px;" alt="578077863"/>
-      </a>
-      <br />
-      <a href="https://github.com/578077863">578077863</a>
     </td>
   </tr>
 </table>

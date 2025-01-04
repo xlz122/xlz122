@@ -94,6 +94,13 @@
       <a href="https://github.com/wywzixin">wangyawei</a>
     </td>
     <td align="center">
+      <a href="https://github.com/itxcjm">
+        <img src="https://avatars2.githubusercontent.com/u/39694377" width="100px;" alt="itxcjm"/>
+      </a>
+      <br />
+      <a href="https://github.com/itxcjm">新城旧梦</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HealUP">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
       </a>
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zlylm">
         <img src="https://avatars2.githubusercontent.com/u/30686636" width="100px;" alt="zlylm"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/Youmzhi">Youmzhi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/XinjieDang">
-        <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="XinjieDang"/>
-      </a>
-      <br />
-      <a href="https://github.com/XinjieDang">XinjieDang</a>
     </td>
   </tr>
 </table>

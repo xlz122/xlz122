@@ -159,11 +159,11 @@
       <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Youmzhi">
-        <img src="https://avatars2.githubusercontent.com/u/75533551" width="100px;" alt="Youmzhi"/>
+      <a href="https://github.com/jiaoqianji">
+        <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
       </a>
       <br />
-      <a href="https://github.com/Youmzhi">Youmzhi</a>
+      <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
     </td>
   </tr>
 </table>

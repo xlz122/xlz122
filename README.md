@@ -29,13 +29,6 @@
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hauntmuskie">
-        <img src="https://avatars2.githubusercontent.com/u/46187240" width="100px;" alt="hauntmuskie"/>
-      </a>
-      <br />
-      <a href="https://github.com/hauntmuskie">Rionggo Rahardi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/stanxii">
         <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="stanxii"/>
       </a>
@@ -63,8 +56,6 @@
       <br />
       <a href="https://github.com/topperCao">topperCao</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/alex-oos">
         <img src="https://avatars2.githubusercontent.com/u/46887064" width="100px;" alt="alex-oos"/>
@@ -72,6 +63,8 @@
       <br />
       <a href="https://github.com/alex-oos">快乐小王子</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Yy2z">
         <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
@@ -114,8 +107,6 @@
       <br />
       <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
@@ -123,6 +114,8 @@
       <br />
       <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zlylm">
         <img src="https://avatars2.githubusercontent.com/u/30686636" width="100px;" alt="zlylm"/>
@@ -164,6 +157,13 @@
       </a>
       <br />
       <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Youmzhi">
+        <img src="https://avatars2.githubusercontent.com/u/75533551" width="100px;" alt="Youmzhi"/>
+      </a>
+      <br />
+      <a href="https://github.com/Youmzhi">Youmzhi</a>
     </td>
   </tr>
 </table>

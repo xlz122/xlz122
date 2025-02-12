@@ -98,7 +98,7 @@
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
       </a>
       <br />
-      <a href="https://github.com/HealUP">Denszhi</a>
+      <a href="https://github.com/HealUP">DD</a>
     </td>
     <td align="center">
       <a href="https://github.com/chen-ziwen">

@@ -94,13 +94,6 @@
       <a href="https://github.com/wywzixin">wangyawei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HealUP">
-        <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
-      </a>
-      <br />
-      <a href="https://github.com/HealUP">DD</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/chen-ziwen">
         <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
       </a>
@@ -113,6 +106,13 @@
       </a>
       <br />
       <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HealUP">
+        <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
+      </a>
+      <br />
+      <a href="https://github.com/HealUP">DD</a>
     </td>
   </tr>
   <tr>

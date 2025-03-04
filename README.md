@@ -66,18 +66,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/arvsabert">
-        <img src="https://avatars2.githubusercontent.com/u/42908592" width="100px;" alt="arvsabert"/>
-      </a>
-      <br />
-      <a href="https://github.com/arvsabert">arvsabert</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Yy2z">
         <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
       </a>
       <br />
       <a href="https://github.com/Yy2z">Julian</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arvsabert">
+        <img src="https://avatars2.githubusercontent.com/u/42908592" width="100px;" alt="arvsabert"/>
+      </a>
+      <br />
+      <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
     <td align="center">
       <a href="https://github.com/wywzixin">

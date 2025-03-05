@@ -124,6 +124,13 @@
       <a href="https://github.com/zlylm">zlylm</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DANGXingJie">
+        <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="DANGXingJie"/>
+      </a>
+      <br />
+      <a href="https://github.com/DANGXingJie">DANGXingJie</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/995william">
         <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
       </a>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Youmzhi">
-        <img src="https://avatars2.githubusercontent.com/u/75533551" width="100px;" alt="Youmzhi"/>
-      </a>
-      <br />
-      <a href="https://github.com/Youmzhi">Youmzhi</a>
     </td>
   </tr>
 </table>

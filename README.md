@@ -94,6 +94,13 @@
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
     <td align="center">
+      <a href="https://github.com/XingJi-love">
+        <img src="https://avatars2.githubusercontent.com/u/177649500" width="100px;" alt="XingJi-love"/>
+      </a>
+      <br />
+      <a href="https://github.com/XingJi-love">XingJi-love</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/itxcjm">
         <img src="https://avatars2.githubusercontent.com/u/39694377" width="100px;" alt="itxcjm"/>
       </a>
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HealUP">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/HealUP">DD</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zlylm">
         <img src="https://avatars2.githubusercontent.com/u/30686636" width="100px;" alt="zlylm"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/myyezi">yezi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lanxinyou">
-        <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
-      </a>
-      <br />
-      <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
   </tr>
 </table>

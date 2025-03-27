@@ -131,13 +131,6 @@
       <a href="https://github.com/zlylm">zlylm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lanxinyou">
-        <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
-      </a>
-      <br />
-      <a href="https://github.com/lanxinyou">lanxinyou</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DANGXingJie">
         <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="DANGXingJie"/>
       </a>
@@ -164,6 +157,13 @@
       </a>
       <br />
       <a href="https://github.com/myyezi">yezi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lanxinyou">
+        <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
+      </a>
+      <br />
+      <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
   </tr>
 </table>

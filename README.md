@@ -50,18 +50,18 @@
       <a href="https://github.com/ChiuMungZitAlexander">Alexander Mung-Zit Chiu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/topperCao">
-        <img src="https://avatars2.githubusercontent.com/u/5707142" width="100px;" alt="topperCao"/>
-      </a>
-      <br />
-      <a href="https://github.com/topperCao">topperCao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/alex-oos">
         <img src="https://avatars2.githubusercontent.com/u/46887064" width="100px;" alt="alex-oos"/>
       </a>
       <br />
       <a href="https://github.com/alex-oos">快乐小王子</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/topperCao">
+        <img src="https://avatars2.githubusercontent.com/u/5707142" width="100px;" alt="topperCao"/>
+      </a>
+      <br />
+      <a href="https://github.com/topperCao">topperCao</a>
     </td>
   </tr>
   <tr>

@@ -80,13 +80,6 @@
       <a href="https://github.com/Yy2z">Julian</a>
     </td>
     <td align="center">
-      <a href="https://github.com/XingJi-love">
-        <img src="https://avatars2.githubusercontent.com/u/177649500" width="100px;" alt="XingJi-love"/>
-      </a>
-      <br />
-      <a href="https://github.com/XingJi-love">XingJi-love</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wywzixin">
         <img src="https://avatars2.githubusercontent.com/u/22430715" width="100px;" alt="wywzixin"/>
       </a>
@@ -106,6 +99,13 @@
       </a>
       <br />
       <a href="https://github.com/arvsabert">arvsabert</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/XingJi-love">
+        <img src="https://avatars2.githubusercontent.com/u/177649500" width="100px;" alt="XingJi-love"/>
+      </a>
+      <br />
+      <a href="https://github.com/XingJi-love">XingJi-love</a>
     </td>
     <td align="center">
       <a href="https://github.com/ZhuAiQuan">

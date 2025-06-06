@@ -87,18 +87,18 @@
       <a href="https://github.com/XingJi-love">XingJi-love</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wywzixin">
-        <img src="https://avatars2.githubusercontent.com/u/22430715" width="100px;" alt="wywzixin"/>
-      </a>
-      <br />
-      <a href="https://github.com/wywzixin">wangyawei</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/itxcjm">
         <img src="https://avatars2.githubusercontent.com/u/39694377" width="100px;" alt="itxcjm"/>
       </a>
       <br />
       <a href="https://github.com/itxcjm">新城旧梦</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wywzixin">
+        <img src="https://avatars2.githubusercontent.com/u/22430715" width="100px;" alt="wywzixin"/>
+      </a>
+      <br />
+      <a href="https://github.com/wywzixin">wangyawei</a>
     </td>
     <td align="center">
       <a href="https://github.com/arvsabert">

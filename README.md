@@ -108,20 +108,20 @@
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ZhuAiQuan">
-        <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/HealUP">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
       </a>
       <br />
       <a href="https://github.com/HealUP">DD</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ZhuAiQuan">
+        <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
+      </a>
+      <br />
+      <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
     </td>
     <td align="center">
       <a href="https://github.com/zlylm">

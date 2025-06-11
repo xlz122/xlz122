@@ -73,6 +73,13 @@
       <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
     <td align="center">
+      <a href="https://github.com/XingJi-love">
+        <img src="https://avatars2.githubusercontent.com/u/177649500" width="100px;" alt="XingJi-love"/>
+      </a>
+      <br />
+      <a href="https://github.com/XingJi-love">XingJi-love</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Yy2z">
         <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
       </a>
@@ -85,13 +92,6 @@
       </a>
       <br />
       <a href="https://github.com/itxcjm">新城旧梦</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/XingJi-love">
-        <img src="https://avatars2.githubusercontent.com/u/177649500" width="100px;" alt="XingJi-love"/>
-      </a>
-      <br />
-      <a href="https://github.com/XingJi-love">XingJi-love</a>
     </td>
     <td align="center">
       <a href="https://github.com/wywzixin">

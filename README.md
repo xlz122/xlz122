@@ -117,11 +117,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/HealUP">
-        <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="HealUP"/>
+      <a href="https://github.com/Denszh">
+        <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="Denszh"/>
       </a>
       <br />
-      <a href="https://github.com/HealUP">DD</a>
+      <a href="https://github.com/Denszh">DD</a>
     </td>
     <td align="center">
       <a href="https://github.com/DANGXingJie">

@@ -117,6 +117,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/jiaoqianji">
+        <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
+      </a>
+      <br />
+      <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
       </a>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/myyezi">yezi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lanxinyou">
-        <img src="https://avatars2.githubusercontent.com/u/53325452" width="100px;" alt="lanxinyou"/>
-      </a>
-      <br />
-      <a href="https://github.com/lanxinyou">lanxinyou</a>
     </td>
   </tr>
 </table>

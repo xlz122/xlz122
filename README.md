@@ -29,6 +29,13 @@
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/OnyedikaBenjamin">
+        <img src="https://avatars2.githubusercontent.com/u/107368386" width="100px;" alt="OnyedikaBenjamin"/>
+      </a>
+      <br />
+      <a href="https://github.com/OnyedikaBenjamin">Udegbunam Benjamin (Ben Billion)</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/stanxii">
         <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="stanxii"/>
       </a>
@@ -50,6 +57,15 @@
       <a href="https://github.com/ChiuMungZitAlexander">Alexander Mung-Zit Chiu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/chen-ziwen">
+        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
+      </a>
+      <br />
+      <a href="https://github.com/chen-ziwen">Chiko</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/alex-oos">
         <img src="https://avatars2.githubusercontent.com/u/46887064" width="100px;" alt="alex-oos"/>
       </a>
@@ -63,21 +79,12 @@
       <br />
       <a href="https://github.com/XingJi-love">XingJi-love</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/topperCao">
         <img src="https://avatars2.githubusercontent.com/u/5707142" width="100px;" alt="topperCao"/>
       </a>
       <br />
       <a href="https://github.com/topperCao">topperCao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chen-ziwen">
-        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
-      </a>
-      <br />
-      <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
     <td align="center">
       <a href="https://github.com/itxcjm">
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jiaoqianji">
         <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/jiaoqianji">Jiao Qianji</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ZhuAiQuan">
         <img src="https://avatars2.githubusercontent.com/u/62362232" width="100px;" alt="ZhuAiQuan"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/zjkzwh">zjkzwh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/myyezi">
-        <img src="https://avatars2.githubusercontent.com/u/54535802" width="100px;" alt="myyezi"/>
-      </a>
-      <br />
-      <a href="https://github.com/myyezi">yezi</a>
     </td>
   </tr>
 </table>

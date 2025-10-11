@@ -73,18 +73,18 @@
       <a href="https://github.com/XingJi-love">XingJi-love</a>
     </td>
     <td align="center">
-      <a href="https://github.com/chen-ziwen">
-        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
-      </a>
-      <br />
-      <a href="https://github.com/chen-ziwen">Chiko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/topperCao">
         <img src="https://avatars2.githubusercontent.com/u/5707142" width="100px;" alt="topperCao"/>
       </a>
       <br />
       <a href="https://github.com/topperCao">topperCao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chen-ziwen">
+        <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
+      </a>
+      <br />
+      <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
     <td align="center">
       <a href="https://github.com/itxcjm">

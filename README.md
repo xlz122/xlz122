@@ -124,6 +124,13 @@
       <a href="https://github.com/Denszh">DD</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DANGXingJie">
+        <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="DANGXingJie"/>
+      </a>
+      <br />
+      <a href="https://github.com/DANGXingJie">DANGXingJie</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jiaoqianji">
         <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
       </a>
@@ -143,13 +150,6 @@
       </a>
       <br />
       <a href="https://github.com/zlylm">zlylm</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DANGXingJie">
-        <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="DANGXingJie"/>
-      </a>
-      <br />
-      <a href="https://github.com/DANGXingJie">DANGXingJie</a>
     </td>
     <td align="center">
       <a href="https://github.com/995william">

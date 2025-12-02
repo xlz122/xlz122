@@ -108,21 +108,14 @@
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Denszh">
-        <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="Denszh"/>
-      </a>
-      <br />
-      <a href="https://github.com/Denszh">DEX</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/DANGXingJie">
         <img src="https://avatars2.githubusercontent.com/u/32971457" width="100px;" alt="DANGXingJie"/>
       </a>
       <br />
       <a href="https://github.com/DANGXingJie">DANGXingJie</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jiaoqianji">
         <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
@@ -136,6 +129,13 @@
       </a>
       <br />
       <a href="https://github.com/ZhuAiQuan">ZhuAiQuan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Denszh">
+        <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="Denszh"/>
+      </a>
+      <br />
+      <a href="https://github.com/Denszh">DEX</a>
     </td>
     <td align="center">
       <a href="https://github.com/zlylm">

@@ -57,20 +57,20 @@
       <a href="https://github.com/XingJi-love">XingJi-love</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alex-oos">
-        <img src="https://avatars2.githubusercontent.com/u/46887064" width="100px;" alt="alex-oos"/>
-      </a>
-      <br />
-      <a href="https://github.com/alex-oos">快乐小王子</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/chen-ziwen">
         <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
       </a>
       <br />
       <a href="https://github.com/chen-ziwen">Chiko</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alex-oos">
+        <img src="https://avatars2.githubusercontent.com/u/46887064" width="100px;" alt="alex-oos"/>
+      </a>
+      <br />
+      <a href="https://github.com/alex-oos">快乐小王子</a>
     </td>
     <td align="center">
       <a href="https://github.com/topperCao">

@@ -128,7 +128,7 @@
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="Denszh"/>
       </a>
       <br />
-      <a href="https://github.com/Denszh">DEX</a>
+      <a href="https://github.com/Denszh">Dorian</a>
     </td>
     <td align="center">
       <a href="https://github.com/zlylm">

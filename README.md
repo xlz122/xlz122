@@ -29,6 +29,13 @@
       <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gambling-addict">
+        <img src="https://avatars2.githubusercontent.com/u/179130175" width="100px;" alt="gambling-addict"/>
+      </a>
+      <br />
+      <a href="https://github.com/gambling-addict">ryk</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/stanxii">
         <img src="https://avatars2.githubusercontent.com/u/1029665" width="100px;" alt="stanxii"/>
       </a>
@@ -56,6 +63,8 @@
       <br />
       <a href="https://github.com/XingJi-love">XingJi-love</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/chen-ziwen">
         <img src="https://avatars2.githubusercontent.com/u/85820568" width="100px;" alt="chen-ziwen"/>
@@ -63,8 +72,6 @@
       <br />
       <a href="https://github.com/chen-ziwen">Chiko</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/alex-oos">
         <img src="https://avatars2.githubusercontent.com/u/46887064" width="100px;" alt="alex-oos"/>
@@ -87,18 +94,18 @@
       <a href="https://github.com/itxcjm">新城旧梦</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Yy2z">
-        <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yy2z">Julian</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wywzixin">
         <img src="https://avatars2.githubusercontent.com/u/22430715" width="100px;" alt="wywzixin"/>
       </a>
       <br />
       <a href="https://github.com/wywzixin">wangyawei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yy2z">
+        <img src="https://avatars2.githubusercontent.com/u/77180909" width="100px;" alt="Yy2z"/>
+      </a>
+      <br />
+      <a href="https://github.com/Yy2z">Julian</a>
     </td>
     <td align="center">
       <a href="https://github.com/arvsabert">
@@ -107,6 +114,8 @@
       <br />
       <a href="https://github.com/arvsabert">arvsabert</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Denszh">
         <img src="https://avatars2.githubusercontent.com/u/72082506" width="100px;" alt="Denszh"/>
@@ -114,8 +123,6 @@
       <br />
       <a href="https://github.com/Denszh">Dorian</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jiaoqianji">
         <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
@@ -157,13 +164,6 @@
       </a>
       <br />
       <a href="https://github.com/zjkzwh">zjkzwh</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/myyezi">
-        <img src="https://avatars2.githubusercontent.com/u/54535802" width="100px;" alt="myyezi"/>
-      </a>
-      <br />
-      <a href="https://github.com/myyezi">yezi</a>
     </td>
   </tr>
 </table>

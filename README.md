@@ -61,7 +61,7 @@
         <img src="https://avatars2.githubusercontent.com/u/177649500" width="100px;" alt="XingJi-love"/>
       </a>
       <br />
-      <a href="https://github.com/XingJi-love">XingJi-love</a>
+      <a href="https://github.com/XingJi-love">XINGJI</a>
     </td>
   </tr>
   <tr>

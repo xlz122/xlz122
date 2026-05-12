@@ -77,7 +77,7 @@
         <img src="https://avatars2.githubusercontent.com/u/46887064" width="100px;" alt="alex-oos"/>
       </a>
       <br />
-      <a href="https://github.com/alex-oos">快乐小王子</a>
+      <a href="https://github.com/alex-oos">月亮邮寄员</a>
     </td>
     <td align="center">
       <a href="https://github.com/topperCao">

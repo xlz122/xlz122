@@ -33,7 +33,7 @@
         <img src="https://avatars2.githubusercontent.com/u/179130175" width="100px;" alt="gambling-addict"/>
       </a>
       <br />
-      <a href="https://github.com/gambling-addict">da real elise </a>
+      <a href="https://github.com/gambling-addict">gambling-addict</a>
     </td>
     <td align="center">
       <a href="https://github.com/stanxii">

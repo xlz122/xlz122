@@ -176,9 +176,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Unknown    0 hrs 2 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜   91.84 %
-Json       0 hrs 0 mins          🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.16 %
-Markdown   0 hrs 0 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

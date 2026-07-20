@@ -50,18 +50,18 @@
       <a href="https://github.com/khinthandarkyaw98">Khin Thandar Kyaw</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ChiuMungZitAlexander">
-        <img src="https://avatars2.githubusercontent.com/u/22234622" width="100px;" alt="ChiuMungZitAlexander"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChiuMungZitAlexander">Alexander Mung-Zit Chiu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/XingJi-love">
         <img src="https://avatars2.githubusercontent.com/u/177649500" width="100px;" alt="XingJi-love"/>
       </a>
       <br />
       <a href="https://github.com/XingJi-love">XINGJI</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChiuMungZitAlexander">
+        <img src="https://avatars2.githubusercontent.com/u/22234622" width="100px;" alt="ChiuMungZitAlexander"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChiuMungZitAlexander">Alexander Mung-Zit Chiu</a>
     </td>
   </tr>
   <tr>

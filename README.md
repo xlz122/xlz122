@@ -22,18 +22,18 @@
       <a href="https://github.com/mustafacagri">Mustafa Çağrı Güven</a>
     </td>
     <td align="center">
-      <a href="https://github.com/seniorvuejsdeveloper">
-        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
-      </a>
-      <br />
-      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gambling-addict">
         <img src="https://avatars2.githubusercontent.com/u/179130175" width="100px;" alt="gambling-addict"/>
       </a>
       <br />
       <a href="https://github.com/gambling-addict">gambling-addict</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seniorvuejsdeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/147451557" width="100px;" alt="seniorvuejsdeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/seniorvuejsdeveloper">Senior Vue.js Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/stanxii">

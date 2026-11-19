@@ -61,7 +61,7 @@
         <img src="https://avatars2.githubusercontent.com/u/22234622" width="100px;" alt="ChiuMungZitAlexander"/>
       </a>
       <br />
-      <a href="https://github.com/ChiuMungZitAlexander">Alexander Mung-Zit Chiu</a>
+      <a href="https://github.com/ChiuMungZitAlexander">AMZ</a>
     </td>
   </tr>
   <tr>
@@ -117,6 +117,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/995william">
+        <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
+      </a>
+      <br />
+      <a href="https://github.com/995william">Mr-吴</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jiaoqianji">
         <img src="https://avatars2.githubusercontent.com/u/103246345" width="100px;" alt="jiaoqianji"/>
       </a>
@@ -136,13 +143,6 @@
       </a>
       <br />
       <a href="https://github.com/DANGXingJie">DANGXingJie</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/995william">
-        <img src="https://avatars2.githubusercontent.com/u/59564933" width="100px;" alt="995william"/>
-      </a>
-      <br />
-      <a href="https://github.com/995william">Mr-吴</a>
     </td>
     <td align="center">
       <a href="https://github.com/zlylm">

@@ -16,7 +16,7 @@ jobs:
       - name: Setup python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.8.18
+          python-version: 3.8.0
 
       - name: Install requests
         run: pip install requests

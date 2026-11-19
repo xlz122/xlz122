@@ -10,13 +10,13 @@ on:
 
 jobs:
   followers:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v3
       - name: Setup python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.8.0
+          python-version: 3.8
 
       - name: Install requests
         run: pip install requests
